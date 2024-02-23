@@ -1,0 +1,5 @@
+This is a text file for upload
+
+git remote add origin https://github.com/k-abhii/Boto3_AWS-Python.git
+git branch -M main
+git push -u origin main
