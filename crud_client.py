@@ -60,3 +60,12 @@ if __name__ == "__main__":
 
     # Delete bucket
     delete_bucket(my_bucket_name)
+# output
+# C:\Python38\python.exe C:\Users\hp\PycharmProjects\Boto_aws_python\Boto_aws_python\crud_client.py
+# Bucket 8298845-abhimanyu-create-bucket-1 created successfully.
+# File uploaded to your-s3-object-key in 8298845-abhimanyu-create-bucket-1 successfully.
+# File downloaded from your-s3-object-key in 8298845-abhimanyu-create-bucket-1 successfully.
+# File your-s3-object-key deleted from 8298845-abhimanyu-create-bucket-1 successfully.
+# Bucket 8298845-abhimanyu-create-bucket-1 deleted successfully.
+#
+# Process finished with exit code 0
